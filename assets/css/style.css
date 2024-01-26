@@ -173,17 +173,17 @@ h6 {
 }
 
 #header .logo {
-  font-size: 30px;
+  font-size: 40px;
   margin: 0;
   padding: 0;
   line-height: 1;
   font-weight: 600;
   letter-spacing: 0.8px;
-  font-family: "Poppins", sans-serif;
+  font-family: 'Nunito Sans', sans-serif;
 }
 
 #header .logo a {
-  color: #222222;
+  color: #023e73;
 }
 
 #header .logo a span {
@@ -2400,7 +2400,6 @@ h6 {
     margin-left: 3px;
     margin-top: -19px;
   }
-
   
 }
 
